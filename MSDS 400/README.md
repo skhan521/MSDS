@@ -6,3 +6,14 @@ Mathematics is the underlying basis of many aspects of data science. This course
 ## Problem Sets
 This folder contains a few problems from each of 9 problem assigned throughout the course. The topics covered in problem sets are: 
 - [Module 1: Linear Functions](https://github.com/skhan521/MSDS/blob/main/MSDS%20400/Problem%20Sets/M1%20Problem%20Set.ipynb)
+- [Module 2: Systems of Equations](https://github.com/skhan521/MSDS/blob/main/MSDS%20400/Problem%20Sets/M2%20Problem%20Set.ipynb)
+- [Module 3: Linear Programming Models](https://github.com/skhan521/MSDS/blob/main/MSDS%20400/Problem%20Sets/M3%20Problem%20Set.ipynb)
+- [Module 4: Probability](https://github.com/skhan521/MSDS/blob/main/MSDS%20400/Problem%20Sets/M4%20Problem%20Set.ipynb)
+- [Module 5: Derivatives](https://github.com/skhan521/MSDS/blob/main/MSDS%20400/Problem%20Sets/M5%20Problem%20Set.ipynb)
+- [Module 6: Applications of Derivatives](https://github.com/skhan521/MSDS/blob/main/MSDS%20400/Problem%20Sets/M6%20Problem%20Set.ipynb)
+- [Module 7: Integration and Continuous Probability](https://github.com/skhan521/MSDS/blob/main/MSDS%20400/Problem%20Sets/M7%20Problem%20Set.ipynb)
+- [Module 8: Functions of Several Variables](https://github.com/skhan521/MSDS/blob/main/MSDS%20400/Problem%20Sets/M8%20Problem%20Set.ipynb)
+- [Module 9: Graph Theory](https://github.com/skhan521/MSDS/blob/main/MSDS%20400/Problem%20Sets/M9%20Problem%20Set.ipynb)
+
+## Python Notes
+This folder contains notebooks for some examples of how to use Python for topics for each module.  
