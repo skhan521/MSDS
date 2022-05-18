@@ -149,8 +149,7 @@ text(1,1.75,labels = c("(1.571,1.414)"),cex=1)
 ```
 
 ![](R-Assignment-1_files/figure-gfm/test2c-1.png)<!-- -->
-
------
+![](R-Assignment-1_files/figure-gfm/test2c-1.png) —–
 
 ***\#\#\#\#\# Section 3: (8 points) \#\#\#***
 
@@ -173,8 +172,7 @@ text(0,0.1,label="(0,0)")
 ```
 
 ![](R-Assignment-1_files/figure-gfm/test3-1.png)<!-- -->
-
------
+![](R-Assignment-1_files/figure-gfm/test3-1.png) —–
 
 ***\#\#\#\#\# Section 4: (12 points) \#\#\#***
 
@@ -249,6 +247,8 @@ plot(r,area, col="seagreen1",main="Area vs Radius of Trees",xlab="Radius",ylab="
 par(mfrow=c(1,1))
 ```
 
+![](R-Assignment-1_files/figure-gfm/test3b-1.png)
+
 (4)(c) Present a horizontal, notched, colored boxplot of the areas
 calculated in (b). Title and label the axis.
 
@@ -257,6 +257,7 @@ boxplot(area, col="cyan",horizontal = TRUE,notch=TRUE,main="Boxplot of Tree Area
 ```
 
 ![](R-Assignment-1_files/figure-gfm/test3c-1.png)<!-- -->
+![](R-Assignment-1_files/figure-gfm/test3c-1.png)
 
 (4)(d) Demonstrate that the outlier revealed in the boxplot of Area is
 not an extreme outlier. It is possible to do this with one line of code
@@ -343,6 +344,8 @@ boxplot(y,horizontal = TRUE,col="coral",main="Boxplot of Exponential Distributio
 par(mfrow=c(1,1))
 ```
 
+![](R-Assignment-1_files/figure-gfm/test5b-1.png)
+
 (5)(c) QQ plots are useful for detecting the presence of heavy-tailed
 distributions. Present side-by-side QQ plots, one for each sample, using
 *qqnorm()* and *qqline()*. Add color and titles. In base R plots, “cex”
@@ -379,3 +382,5 @@ y[y > outliers(y)] #2 outliers exponential sample
 ```
 
     ## [1] 1.4486792 0.6677194
+
+![](R-Assignment-1_files/figure-gfm/test5c-1.png)
