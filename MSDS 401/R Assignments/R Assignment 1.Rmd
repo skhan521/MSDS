@@ -1,7 +1,6 @@
 ---
 title: 'Khan_Sameer R Assignment #1 (50 points)'
-output:
-  html_document: default
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include = FALSE}
