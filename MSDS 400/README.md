@@ -16,4 +16,4 @@ This folder contains a few problems from each of 9 problem assigned throughout t
 - [Module 9: Graph Theory](https://github.com/skhan521/MSDS/blob/main/MSDS%20400/Problem%20Sets/M9%20Problem%20Set.ipynb)
 
 ## Python Notes
-This folder contains notebooks for some examples of how to use Python for topics for each module.  
+This folder contains notebooks of examples to see how to use Python for topics in each module.  
