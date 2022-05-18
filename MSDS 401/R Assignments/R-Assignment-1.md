@@ -1,4 +1,8 @@
-------------------------------------------------------------------------
+R Assignment \#1 (50 points)
+================
+Sameer Khan
+
+-----
 
 ### Test Items starts from here - There are 5 sections - 50 points total
 
@@ -86,7 +90,7 @@ round(sum(vector_4),digits=2)
 
     ## [1] 84.7
 
-------------------------------------------------------------------------
+-----
 
 ***\#\#\#\#\# Section 2: (10 points) \#\#\#***
 
@@ -144,9 +148,9 @@ points(max(y),pch=16, cex=2)
 text(1,1.75,labels = c("(1.571,1.414)"),cex=1)
 ```
 
-![](R-Assignment-1_files/figure-markdown_github/test2c-1.png)
+![](R-Assignment-1_files/figure-gfm/test2c-1.png)<!-- -->
 
-------------------------------------------------------------------------
+-----
 
 ***\#\#\#\#\# Section 3: (8 points) \#\#\#***
 
@@ -168,9 +172,9 @@ points(0,0,pch=4, cex=2)
 text(0,0.1,label="(0,0)")
 ```
 
-![](R-Assignment-1_files/figure-markdown_github/test3-1.png)
+![](R-Assignment-1_files/figure-gfm/test3-1.png)<!-- -->
 
-------------------------------------------------------------------------
+-----
 
 ***\#\#\#\#\# Section 4: (12 points) \#\#\#***
 
@@ -239,7 +243,7 @@ hist(r,col = "orange",main="Histogram of Tree Radii",xlab="Radius" )
 plot(r,area, col="seagreen1",main="Area vs Radius of Trees",xlab="Radius",ylab="Area")
 ```
 
-![](R-Assignment-1_files/figure-markdown_github/test3b-1.png)
+![](R-Assignment-1_files/figure-gfm/test3b-1.png)<!-- -->
 
 ``` r
 par(mfrow=c(1,1))
@@ -252,7 +256,7 @@ calculated in (b). Title and label the axis.
 boxplot(area, col="cyan",horizontal = TRUE,notch=TRUE,main="Boxplot of Tree Areas",xlab="Area",ylab="Tree Areas")
 ```
 
-![](R-Assignment-1_files/figure-markdown_github/test3c-1.png)
+![](R-Assignment-1_files/figure-gfm/test3c-1.png)<!-- -->
 
 (4)(d) Demonstrate that the outlier revealed in the boxplot of Area is
 not an extreme outlier. It is possible to do this with one line of code
@@ -283,7 +287,7 @@ trees[which(trees==max(trees$Girth)),]
     ##    Girth Height Volume
     ## 31  20.6     87     77
 
-------------------------------------------------------------------------
+-----
 
 ***\#\#\#\#\# Section 5: (12 points) \#\#\#***
 
@@ -333,7 +337,7 @@ hist(y, col="coral",main="Histogram of Exponential Distribution")
 boxplot(y,horizontal = TRUE,col="coral",main="Boxplot of Exponential Distribution")
 ```
 
-![](R-Assignment-1_files/figure-markdown_github/test5b-1.png)
+![](R-Assignment-1_files/figure-gfm/test5b-1.png)<!-- -->
 
 ``` r
 par(mfrow=c(1,1))
@@ -356,7 +360,7 @@ qqnorm(y,col="springgreen",cex=2,main="QQ Plot (Exponential)")
 qqline(y,col="slateblue1")
 ```
 
-![](R-Assignment-1_files/figure-markdown_github/test5c-1.png)
+![](R-Assignment-1_files/figure-gfm/test5c-1.png)<!-- -->
 
 ``` r
 outliers = function(x)
