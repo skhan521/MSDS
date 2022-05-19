@@ -98,11 +98,11 @@ table(mydata$CLASS,mydata$RINGS)
 distributional implications such as potential skewness and outliers.**
 
 ***Answer: The dataset contains 8 numeric variables, and 2 factor
-variables (Sex and Class). Sex has 3 factor levels: M,F, and I. Class
-has 5 factor levels: A1,A2,A3,A4,A5. Based off of the summary, I see a
-few potential outliers; the maximums of WHOLE,SHUCK,RINGS, and VOLUME
-are all greater than 1.5*IQR and have the potential to skew their
-histoggrams to the right **\*
+variables (Sex and Class). Sex has 3 factor levels: M, F, and I. Class
+has 5 factor levels: A1, A2, A3, A4, A5. Based off of the summary, I see a
+few potential outliers; the maximums of WHOLE, SHUCK, RINGS, and VOLUME
+are all greater than 1.5(IQR) and have the potential to skew their
+histograms to the right **\*
 
 (1)(b) (1 point) Generate a table of counts using SEX and CLASS. Add
 margins to this table (Hint: There should be 15 cells in this table plus
@@ -203,7 +203,7 @@ x-variable increases, which makes sense since the more volume a abalones
 has, the more it should weigh. Similarly, since shuck is a part of the
 whole weight, we should see a positive correlation for shuck vs whole.
 For the ratio of shuck to whole, it appears that older trees (Class
-A4,A5) generally have a lower ratio than younger ones (Class A2,A3)***
+A4, A5) generally have a lower ratio than younger ones (Class A2, A3)***
 
 -----
 
@@ -313,7 +313,7 @@ rbind(f,i,m)
 results in (3)(b)?**
 
 ***Answer: From the dataframe, we see that the largest ratios
-overwhelmingly come from females.Infants have the most number of
+overwhelmingly come from females. Infants have the most number of
 outliers (8) and males have the least (5). Most of the outliers have a
 large whole weight, but the biggest outlier is a small female with a
 large volume. ***
