@@ -10,4 +10,4 @@ linear regression, contingency tables, and chi-square tests. Selected contempora
 concepts, such as bootstrapping, are introduced to supplement traditional statistical methods. 
 
 ## R Assignments
-This folder contains 2 R programming assignments and 2 data analysis assignments. 
+This folder contains 2 R programming assignments and 2 data analysis assignments done throughout the course. 
