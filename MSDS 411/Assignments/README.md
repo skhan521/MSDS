@@ -1,6 +1,6 @@
 # Assignments
 
-This folder contains the 4 project assignments covered in the Data Modeling for Unsupervised Learning Course <br>
+This folder contains 4 project assignments covered in the Data Modeling for Unsupervised Learning Course <br>
 Topics covered in each assignment include: <br>
 
 Assignment 1: Multivariate Methods, PCA and Factor Analysis, Multidimensional Scaling <br>
