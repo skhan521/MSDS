@@ -7,3 +7,4 @@ MSDS 401 - Applied Statistics with R <br>
 MSDS 410 - Supervised Learning Methods <br>
 MSDS 411 - Unsupervised Learning Methods <br>
 MSDS 420 - Database Systems and Data Preparation <br>
+MSDS 422 - Practical Machine Learning
